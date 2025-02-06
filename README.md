@@ -1,1 +1,1 @@
-# How to scraper Google maps with pythin
+# How to scraper Google maps with python
