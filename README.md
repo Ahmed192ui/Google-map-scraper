@@ -1,2 +1,1 @@
-#How to Scrape Google maps
-##With Selenium
+# How to scraper Google maps
